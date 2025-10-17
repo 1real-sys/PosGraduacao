@@ -71,4 +71,29 @@ Modelos de negócio:
  - **Falta de processos e padrões**
  - **Custoso**
  - **Mão de obra profissional**
+
+ ## Governança corporativa x arquitetura
+
+ Governança corporativa: Trata da forma como a empresa é dirigida, monitorada e incentivada. Fornece uma forma regualr a arquitetura, estabalecendo hierarquia, responsabilidades e processos.
+
+ Arquitetura: Trata do desenho da organização.
+
+### Arquitetura de negócio
+- **Processos**
+- **Classes de informação**
+- **Organização**
+- **Localidade**
+
+### Arquitetura de TI
+- **Informações**
+- **Aplicações**
+- **Infraestrutura**
+ 
+
+## Governança Corporativa
+ É o conjunto de relações entre a administração de uma empresa, o conselho de administração, acionistas, podendo ser definida como um sistema pelo qual as organizações são dirigidas, governadas, monitorada e incentivada.
+
+ São basicamente um conjuntos de práticas que visam a otimização de desempenho. Serve para proteger os acionistas.
+
+ ### Princípios da Governança Corporativa
  
