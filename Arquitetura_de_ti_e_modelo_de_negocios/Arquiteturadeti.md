@@ -215,4 +215,30 @@ Dedicados a organização
  Dedicados ao gerencimento.
 
  
+## Processos de Négocio
+"Conjunto de atividade cuja operação conjunta produz um resultado de valor para o cliente."
+Retrata as atividades realizadas dentro de uma empresa, por exemplo, solictação de um pedido de material para um fornecedor.
 
+A padronização de processos proporcioa eficiencia na execução das atividades e previsibilidade para as organizações.
+
+### Modelagem Processos de Negócios
+
+Para efeitos de padronização e gestão dos processos de negócios, foi desenvolvida uma metodologia chamada BPM, uma ferramenta para modelar, gerenciar e implementar processos.
+
+Gerenciar um processo de neǵico significa identificar, desenhar, medir, monitorar, controlar e melhorar processos automatizados para alcançar os resultados pretendidos.
+
+## BPM
+Business Process Modeling
+
+Trata de processos de negócios como ativos, olha pela organização e agilidade.
+"O BPM pode ser o melhor compreendido como ferramenta de gestão, composto por um conjunto de multiplo elementos, conceitos e metodologias com a finalidade de tratar de forma holística os processos de negócio"
+
+- **Conhecer e mapear processos organizacionais**
+- **Identificar, desenvolver e difundir metodologias e melhores práticas para a gestão de processos**
+- **Promover o monitoramento e a avaliação de desempenho**
+- **Otimização de desempenho**
+
+
+## Framework
+É a ferramenta que pode ser usada para desenvolver uma grande variedade de diferentes arquiteturas, incrementando a disciplina de gestão.
+Pode se difinir como um conjunto de regras, práticas e maneiras.
